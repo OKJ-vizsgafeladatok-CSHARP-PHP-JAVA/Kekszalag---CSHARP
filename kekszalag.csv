@@ -1,0 +1,101 @@
+helyezés;kategória;hajó;klub;kormányos;nap;óra;perc
+1;Nyílt többtestű;Safram;SVE;Christophe Peclard KF;0;12;40
+2;Nyílt többtestű;PreVital;KMPVSE;Litkey Farkas;0;13;1
+3;Nyílt többtestű;OPEL FIFTY-FIFTY;HYC;Józsa Márton Miklós;0;13;27
+4;Nyílt többtestű;The Red / Team Quantum Hungary;BYC;Rauschenberger Miklós;0;14;6
+5;Nyílt többtestű;MKB Extrem Sailing Team;ESC;Kaiser Kristóf;0;14;8
+6;Nyílt többtestű;RedBull 40;YC Zell am Zee;Roman Hagara KF;0;14;9
+7;Nyílt többtestű;IRF;BYC;Váradi Szabó János;0;15;4
+8;Nyílt többtestű;BLACK JACK;BYC;Roland Gäbler;0;15;6
+9;Nyílt többtestű;Sporttech Jedi Business;PRO SE;Czégai Péter;0;15;49
+10;Nyílt többtestű;RSM2;OSC;Vándor Róbert;0;16;35
+11;Nyílt többtestű;Thunderbird;KYK VSE;Behek István;0;16;36
+12;Nyílt többtestű;PAUGER EVERGREEN;YCTBJ;Paulovics Dénes;0;17;11
+13;Nyílt többtestű;HUNCAT;KJAVSE;Rajnai István;0;18;21
+14;Nyílt többtestű;TriniTeam;VSC;Kreskai György;0;18;27
+15;Yardstick I/1;NELSON FLOTTALÍZING;BYC;Varga Lajos;0;22;19
+16;Yardstick I/2;Killer;T-jolle VSE;Tönkő Gábor;0;22;29
+17;8m One Design;Weight;TVSK, BALATONI YC;Gyenes Ákos;0;22;40
+18;Melges 24;HÓD;TVSK;Bujáky Attila;0;22;42
+19;Nyílt többtestű;Hungexpo Hungarian Silence;TYC;Czap Zoltán;0;22;46
+20;Yardstick I/1;Present Perfect;SVE;Tenke Péter;0;22;53
+21;33-as;SZÉLTOLÓ;VESC;Lehoczky Ádám;0;22;55
+22;Összevont cirkáló;Kishamis;VSC;Hrehuss György;0;22;55
+23;33-as;PICUR;BFVSE;Fabriczki András;0;23;2
+24;30-as cirkáló;MÁGIA;TVSK;Dulin György;0;23;5
+25;Yardstick I/2;Jojo;UYCNS;Dieter Schneider KF;0;23;13
+26;Yardstick I/1;ESSENTIA-iTeam Holding;BYC;Gulyás Kovács Gergely;0;23;16
+27;Sudár Regatta;ÖREG;SVE;Békés Miklós;0;23;18
+28;Yardstick III/1;Calibra 21-2;Free Lance;Tomasz Szyichowiak KF;0;23;18
+29;Sudár Regatta;GÉ.;TVSK;Pál Gaszton;0;23;18
+30;8m One Design;NATRIUM HYATT;TVSK;Szentpéteri Ádám;0;23;19
+31;Yardstick I/2;BÉLA ÚR;ER-PETRO;Csontos Péter Gábor;0;23;21
+32;8m One Design;Met.com;SVE;Pfeningberger András;0;23;22
+33;Yardstick I/2;AMINA;SVE;Ádler Gyula;0;23;26
+34;Nautic 330;Matrix;VVSE;Rausch János György;0;23;28
+35;8m One Design;Montana;SVE, SZVE;Ziegler János;0;23;30
+36;Yardstick III/1;Calibra 21;Free Lance;Spisak Wojciech KF;0;23;31
+37;Melges 24;SYRIUS;BORA;Tar László;0;23;31
+38;Yardstick I/1;NO1;TECON, TECON;Munka László;0;23;32
+39;Yardstick I/1;TANTÁL;SVE;Fazekas Gábor;0;23;36
+40;Nautic 330;GYÖNGY;FSE;Erhardt Péter;0;23;37
+41;8m One Design;CHE;OMFB;Pál András;0;23;40
+42;Nautic;GERONIMO;TVSK;Nagy E. Réka;0;23;40
+43;8m One Design;Zerge;EGIS, BALATONI YC;Szaplonczay Péter;0;23;42
+44;Yardstick I/2;Szürkebarát;WIN-D;Feind Zoltán;0;23;43
+45;Yardstick I/2;HELÉNA;VVSE;Varga Huba;0;23;44
+46;70-es cirkáló;M4 Sport;SVSK;Pomucz Tamás;0;23;45
+47;Elliott 770;NOMÁD;VSC;Kovács Ákos Dániel;0;23;47
+48;Nautic 330;After Eight;TVSK;Erdős Bálint;0;23;49
+49;Nau 370;SCHATZ;PŐFF SE;Schatz Árpád;0;23;51
+50;Nautic 330;C2;AS KFT;Galántha Gergely;0;23;52
+51;Nautic;CARPE DIEM;AVIS SE, AVIS SE;Sátori Ferenc;0;23;53
+52;Yardstick I/2;FEKETE LÓ;JUNO SE;Bakos Csanád;0;23;58
+53;11m One Design;Obsession;SVE, SVE;Soltész Gábor;1;0;2
+54;Yardstick I/2;LÁBAD-X;FKVE;Lábady Zsolt;1;0;5
+55;Nautic;OXYGEN;TVSK;Király László;1;0;6
+56;Nautic 330;PRAETOR;BFVSE;Borbíró István;1;0;7
+57;Yardstick II.;Vígkender II.;VVSE;Scholtz Imre;1;0;9
+58;Nau 370;MagnuM;EGIS;Kurucz Sándor;1;0;17
+59;Nau 370;CARBONADO;AVIS SE;Kiss-Bálint Zsolt;1;0;17
+60;Nau 370;rEVOLUTION;VSC;Molnár György István;1;0;23
+61;Nau 370;BRAINSTORM;BYC;Bognár László;1;0;24
+62;Nau 370;SLEEPWALKER;Compass;Temesfői Zénó;1;0;24
+63;Nau 370;SURPRISE;VVEB;Bernula János;1;0;25
+64;J24-es;JUKEBOX;THE-YKA;Péter Tamás;1;0;25
+65;Melges 24;Passion;MTDSC;Kilián Zoltán;1;0;25
+66;Dolfin;SUPPPY;ASE;Seres Péter;1;0;31
+67;Asso 99;100%;EGIS, EGIS;Paksi Álmos;1;0;31
+68;Yardstick II.;Vangelis;BSF VK;Harmath Gábor;1;0;31
+69;Cruiser Class;Lelkész;FKVE;Sáfián László;1;0;31
+70;33-as;MADICKEN;HYC;Gömbös Lóránd;1;0;32
+71;11m One Design;INHACA 3;VID;Kálóczy Antal;1;0;32
+72;X-35;OLSEN;VARIENS;Dobszai Zoltán;1;0;36
+73;Yardstick I/1;Jöttment;BSF VK;Kátai Dénes;1;0;36
+74;25-ös jolle;KIS TUTTI;BYC;Aradi Nándor;1;0;39
+75;Asso 99;CSIMBORASSZÓ;TVSK;Fazakas György;1;0;41
+76;Yardstick I/1;Fazék;GSK;Fazekas László;1;0;41
+77;ORC;SHADOWFAX;BYC;Bencsik László;1;0;43
+78;Bavaria 32;FAVONIUS;KVSE1;Berkes Attila;1;0;49
+79;Yardstick II.;Black Pearl;Callista YC;Bohumil Fedon KF;1;0;52
+80;Asso 99;VOODOO;TVSK;Fekete Gábor;1;0;53
+81;Nau 370;Kacor Király;VVEB;Hrutka Gábor;1;0;55
+82;Yardstick I/1;Remete;OS VSE;Szakolczai András;1;0;56
+83;Yardstick I/1;Trentasette;OSE, BYC;Lacsny Gergely;1;0;57
+84;X-35;MIX;SVE;Hódy Gábor Pál;1;1;0
+85;X-35;HAM-LET;BYC;Gerendy Zoltán;1;1;0
+86;X-35;WESTPORT;SVE;Bednár Tibor;1;1;2
+87;Yardstick I/2;SINDBAD;SVSE, SVSE;Horváth László;1;1;5
+88;Dolfin;SNOOPY;ASE;Jasper Gábor;1;1;6
+89;Asso 99;PIMASSO;SVE;Jeney György;1;1;7
+90;Cruiser Class;ONIX;MTDSC, SVE;Dobos Attila;1;1;7
+91;Yardstick I/2;Distinti Saluti;TVSK;Biró Márk Péter;1;1;9
+92;Nau 370;FANTOM;AVIS SE;Török Zoltán;1;1;12
+93;Összevont cirkáló;GLÓRIA;KEREKED;Juhász Miklós;1;1;16
+94;Yardstick III/2;CSIBOR;WIN-D;Simon Pál;1;1;17
+95;Regina;AMITIÉ;KEREKED;Szabó Vilmos;1;1;18
+96;Yardstick I/2;Minimo;TECON;Bakóczy Zoltán;1;1;20
+97;Regina;SZINDBÁD;TVSK;Szabó Gábor;1;1;20
+98;Összevont cirkáló;SIROCCO;MTDSC;Cittel Lajos;1;1;21
+99;Yardstick I/1;FALCON;TVSK;Hegyi Dénes Márton;1;1;22
+100;Sudár Regatta;SZÁZ*SZÉP;TVSK;Szörényi Gábor;1;1;23;
